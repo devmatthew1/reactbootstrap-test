@@ -4,7 +4,7 @@ import {Table} from 'react-bootstrap';
 function Mytables() {
 	return(
 
-		<div className="col-sm-12 grid-margin">
+		<div className="col-sm-12 pt-5 grid-margin">
             <div className="card h-100">
               <h4 className="card-header">Table</h4>
               <div className="card-body">
